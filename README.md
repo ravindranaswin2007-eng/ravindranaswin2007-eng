@@ -16,7 +16,7 @@
 
 ---
 
-## 🧠 `whoami`
+## `whoami`
 
 ```text
 $ whoami
@@ -25,7 +25,7 @@ $ whoami
 $ cat status.txt
 
 [ROLE]          CSBS Undergraduate
-[LOCATION]      Chennai, Tamil Nadu, India 🇮🇳
+[LOCATION]      Chennai, Tamil Nadu, India
 [FOCUS]         Product Engineering • Cloud • AI • FinTech
 [LEARNING]      DSA • AWS • Linux • DevOps • System Design
 [BUILDING]      RIT Cloud • RIT Academic Resources • FINNA
@@ -38,13 +38,13 @@ $ ./run.sh --mission
 
 ---
 
-## 🚀 What I'm Building
+## What I'm Building
 
 <table>
 <tr>
 <td width="50%">
 
-### ☁️ RIT Cloud
+### RIT Cloud
 Exploring cloud infrastructure inside a campus environment — virtualization, Linux, networking, deployment and infrastructure management.
 
 **Exploring:** `Proxmox` `Linux` `Docker` `Cloud`
@@ -52,7 +52,7 @@ Exploring cloud infrastructure inside a campus environment — virtualization, L
 </td>
 <td width="50%">
 
-### 💰 FINNA
+### FINNA
 A FinTech product concept focused on helping gig workers understand financial benefits, financial resilience and access to relevant services.
 
 **Exploring:** `FinTech` `Open Finance` `AI` `Product`
@@ -63,7 +63,7 @@ A FinTech product concept focused on helping gig workers understand financial be
 <tr>
 <td width="50%">
 
-### 📚 RIT Academic Resources
+### RIT Academic Resources
 A campus-focused platform for sharing academic resources such as notes, question banks and study material.
 
 **Exploring:** `Web Development` `Server` `Authentication` `Deployment`
@@ -71,7 +71,7 @@ A campus-focused platform for sharing academic resources such as notes, question
 </td>
 <td width="50%">
 
-### 🏫 RIT Digital Ecosystem
+### RIT Digital Ecosystem
 Working on ideas for practical digital systems that improve how students discover, access and use campus resources.
 
 **Exploring:** `Product` `Operations` `UX` `Systems`
@@ -82,42 +82,42 @@ Working on ideas for practical digital systems that improve how students discove
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
 <div align="center">
 
-| 🏅 | Achievement |
+| | Achievement |
 |:---:|---|
-| 🥇 | **Freshathon 2026 — 1st Place** |
-| 🚀 | Built and shipped multiple student projects |
-| ☁️ | Hands-on exploration of campus cloud infrastructure |
-| 💡 | Building products at the intersection of technology & business |
+| 1st Place | **Freshathon 2026** |
+| Project Work | Built and shipped multiple student projects |
+| Cloud | Hands-on exploration of campus cloud infrastructure |
+| Product | Building at the intersection of technology and business |
 
 </div>
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
-### 💻 Languages
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
 </p>
 
-### 🌐 Development
+### Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,nodejs,express" />
 </p>
 
-### ☁️ Cloud & Infrastructure
+### Cloud & Infrastructure
 
 <p>
 <img src="https://skillicons.dev/icons?i=aws,linux,docker,git,github" />
 </p>
 
-### 🤖 AI & Data
+### AI & Data
 
 ```text
 Python • AI-powered applications • Data-driven products
@@ -125,7 +125,7 @@ Python • AI-powered applications • Data-driven products
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -145,7 +145,7 @@ Python • AI-powered applications • Data-driven products
 
 ---
 
-## 🛠️ My Current Learning Path
+## My Current Learning Path
 
 ```text
                  ┌──────────────────┐
@@ -167,7 +167,7 @@ Python • AI-powered applications • Data-driven products
 
 ---
 
-## 🎯 2026 Focus
+## 2026 Focus
 
 - [x] Build real-world student products
 - [x] Start working with cloud infrastructure
@@ -182,7 +182,7 @@ Python • AI-powered applications • Data-driven products
 
 ---
 
-## 📌 Featured Project
+## Featured Project
 
 <div align="center">
 
@@ -196,7 +196,7 @@ Python • AI-powered applications • Data-driven products
 
 ---
 
-## 🧩 How I Think
+## How I Think
 
 ```text
 IDEA
@@ -211,21 +211,21 @@ Test with real users
   ↓
 Improve the system
   ↓
-Ship 🚀
+Ship
 ```
 
 I enjoy working where **technology, business and real-world problems** overlap.
 
 ---
 
-## 🌱 Currently Exploring
+## Currently Exploring
 
 `DSA` `AWS` `Linux` `Docker` `Proxmox` `Networking`  
 `AI Engineering` `FinTech` `Open Finance` `System Design` `Product Engineering`
 
 ---
 
-## 📫 Connect
+## Connect
 
 <div align="center">
 
