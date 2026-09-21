@@ -238,6 +238,14 @@ I enjoy working where **technology, business and real-world problems** overlap.
 
 <div align="center">
 
+### FINNA — Product Scan
+
+<a href="https://www.foglamp.dev/scan/finna-feg4b4">
+<img src="https://img.shields.io/badge/VIEW_FINNA_SCAN-7F1D1D?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+<br/><br/>
+
 ### `Building. Learning. Shipping.`
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:dc2626,50:7f1d1d,100:111827&height=120&section=footer" width="100%"/>
