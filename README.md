@@ -2,8 +2,8 @@
 <h3 align="center">Student</h3>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=ravindranaswin2007-eng ">
-    <img src="https://komarev.com/ghpvc/?username=ravindranaswin2007-eng &label=Profile%20views&color=00FFFF&style=flat-square" alt="ravindranaswin2007-eng 's profile views" />
+  <a href="https://komarev.com/ghpvc/?username=ravindranaswin2007-eng">
+    <img src="https://komarev.com/ghpvc/?username=ravindranaswin2007-eng&label=Profile%20views&color=00FFFF&style=flat-square" alt="ravindranaswin2007-eng's profile views" />
   </a>
 </p>
 
@@ -39,16 +39,10 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <a href="https://github.com/ravindranaswin2007-eng ">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ravindranaswin2007-eng &cache_seconds=7200&layout=compact&theme=vue&border_radius=10" alt="ravindranaswin2007-eng 's GitHub Stats" />
+  <a href="https://github.com/ravindranaswin2007-eng">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ravindranaswin2007-eng&cache_seconds=7200&layout=compact&theme=vue&border_radius=10" alt="ravindranaswin2007-eng's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=ravindranaswin2007-eng &theme=vue&hide_border=true&cache_seconds=86400" alt="ravindranaswin2007-eng 's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=ravindranaswin2007-eng &theme=vue&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Aswin R's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=ravindranaswin2007-eng &theme=vue&radius=10" alt="ravindranaswin2007-eng 's Activity Graph" />
+  <img src="https://streak-stats.demolab.com/?user=ravindranaswin2007-eng&theme=vue&hide_border=true&cache_seconds=86400" alt="ravindranaswin2007-eng's GitHub Streak" width="49%" />
 </p>
 
 
@@ -96,17 +90,17 @@
 
 </p>
 
-<p align="center">
-  <a href="https://github.com/ravindranaswin2007-eng ">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ravindranaswin2007-eng &langs_count=8&layout=compact&theme=vue&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
-
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/aswin-r-847369382 "><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Aswin R's LinkedIn"/></a>&nbsp;&nbsp;
-  <a href="mailto:ravindran.aswin2007@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Aswin R's Email"/></a>&nbsp;&nbsp;
-  <a href="https://finnastudio.me"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a>
+  <a href="https://www.linkedin.com/in/aswin-r-847369382 ">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:ravindran.aswin2007@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://finnastudio.me">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
+  </a>
 </p>
 
 ## 💬 Quote
